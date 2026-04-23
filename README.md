@@ -43,7 +43,7 @@ This dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](screenshot.png)
 
 ---
 
