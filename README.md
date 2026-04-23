@@ -4,13 +4,13 @@ An interactive Power BI dashboard showcasing e-commerce sales insights, KPIs, an
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 The goal of this project is to analyze e-commerce sales data to understand customer behavior, sales trends, and overall business performance. The dashboard helps in making data-driven decisions.
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 This dashboard provides insights into:
 
@@ -22,7 +22,7 @@ This dashboard provides insights into:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Identified top-performing product categories  
 - Analyzed profit trends across regions  
@@ -31,7 +31,7 @@ This dashboard provides insights into:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI**
 - **Data Cleaning**
@@ -47,7 +47,7 @@ This dashboard provides insights into:
 
 ---
 
-## 💡 Features
+##  Features
 
 - Interactive filters and slicers  
 - Dynamic charts and KPIs  
@@ -55,7 +55,7 @@ This dashboard provides insights into:
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates how business data can be transformed into meaningful insights using Power BI, helping organizations improve sales strategy and performance.
 
