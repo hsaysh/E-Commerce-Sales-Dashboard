@@ -43,7 +43,7 @@ This dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/hsaysh/E-Commerce-Sales-Dashboard/main/dashboard.png)
 
 ---
 
