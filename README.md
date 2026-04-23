@@ -1,58 +1,79 @@
-# FUTURE_DS_01_Dashboard
-**E-Commerce Sales Dashboard in Power BI **  
-*Future Interns – Data Science & Analytics Internship (Task 1)*
+# 🛒 E-Commerce Sales Dashboard
 
-
-## 📌 Project Overview  
-This project is part of my Future Interns Data Science & Analytics Internship (Task 1).  
-The goal was to create an **interactive and insightful Power BI dashboard** that helps analyze sales, profit, and returns for an e-commerce business.  
-
-The dashboard not only showcases high-level KPIs but also provides the ability to drill down into trends, categories, regions, and products.  
-I focused on a **professional dark theme** with clean alignment, matching colors, and smooth user interactivity.  
+An interactive Power BI dashboard designed to analyze e-commerce sales data, track performance, and generate actionable business insights.
 
 ---
 
-## 📂 Dataset  
-The dataset used for this project is the **Sample Superstore dataset**.  
-It contains historical order data including:  
-- Order details (Order ID, Dates, Ship Mode)  
-- Customer information (Name, Segment, Region, State)  
-- Product details (Category, Sub-Category, Product Name)  
-- Sales, Quantity, Discount, and Profit values  
-- Additional reference tables for People and Returns  
+## 📌 Project Objective
 
-📥 **Download Dataset:** [Click Here](superstore.xlsx)
+The goal of this project is to analyze e-commerce sales data to understand customer behavior, sales trends, and overall business performance. The dashboard helps in making data-driven decisions.
 
 ---
 
-## 📊 Key Features  
-- **KPI Cards**: Total Sales, Total Quantity, Total Profit, Average Order Value, and Return Rate  
-- **Sales by Category & Region** – Donut and Bar charts for quick comparisons  
-- **Monthly Sales Trend** – Line chart showing seasonal patterns  
-- **Top Products by Sales** – Bar chart highlighting best-performing products  
-- **Interactive Filters** – Year, Category, and Region slicers for dynamic exploration  
-- **Consistent Theme** – Dark background with Yellow-Gold, Aqua, and Orange accents for a modern look  
+## 📊 Dashboard Overview
+
+This dashboard provides insights into:
+
+- Total Sales & Revenue  
+- Profit Analysis  
+- Category-wise Sales  
+- Customer Segmentation  
+- Region-wise Performance  
 
 ---
 
-## 🛠 Skills Gained  
-- Data Cleaning & Transformation using **Power Query**  
-- Creating Relationships & Data Modeling in Power BI  
-- Writing DAX measures for KPIs and calculated metrics  
-- Applying advanced formatting & professional design principles in dashboards  
-- Using slicers and cross-filtering for interactive analysis  
+## 📈 Key Insights
+
+- Identified top-performing product categories  
+- Analyzed profit trends across regions  
+- Found seasonal sales patterns  
+- Highlighted customer purchasing behavior  
 
 ---
 
-## 📷 Dashboard Preview  
-![Dashboard Screenshot](screenshot.png)  
+## 🛠️ Tools & Technologies
+
+- **Power BI**
+- **Data Cleaning**
+- **Data Modeling**
+- **DAX**
+- **Data Visualization**
 
 ---
 
-## 📌 Learnings & Takeaways  
-Through this task, I learned the importance of **data modeling before visualization**, how to make dashboards both **insightful and visually appealing**, and how small design changes can greatly improve user experience.  
-This project also strengthened my ability to create **clear, interactive, and business-friendly dashboards** in Power BI.  
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ---
 
-**By Yash Sharma**
+## 💡 Features
+
+- Interactive filters and slicers  
+- Dynamic charts and KPIs  
+- Clean and user-friendly design  
+
+---
+
+## 🎯 Conclusion
+
+This project demonstrates how business data can be transformed into meaningful insights using Power BI, helping organizations improve sales strategy and performance.
+
+---
+
+## 👤 Author
+
+**Yash Sharma**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-5527ab398)
+🔗 [GitHub](https://github.com/hsaysh)
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please give it a ⭐ on GitHub!
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
