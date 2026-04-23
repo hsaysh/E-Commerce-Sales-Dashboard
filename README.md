@@ -74,6 +74,3 @@ This project demonstrates how business data can be transformed into meaningful i
 
 If you found this project useful, please give it a ⭐ on GitHub!
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
